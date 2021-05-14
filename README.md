@@ -14,10 +14,10 @@ this isfont emphasis
   * potato
   * onions
 ## ordered list
-1.alphabets
-2.digits
-    1.whole numbers
-    2.natural numbers
-    3.integers
+1. alphabets
+2. digits
+   1. whole numbers
+   2. natural numbers
+   3. integers
     
-   
+![tajmahal](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Taj_Mahal_in_India_-_Kristian_Bertel.jpg/1200px-Taj_Mahal_in_India_-_Kristian_Bertel.jpg)
